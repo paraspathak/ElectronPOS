@@ -1,0 +1,58 @@
+---
+title: Contact - Electron POS
+layout: default
+bodyClass: page-contact
+---
+
+<div class="intro intro-small">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <h1>Contact</h1>
+      </div>
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+      <ul>
+        <li><strong>Email: </strong><a href="mailto:{{ site.data.contact.email }}">
+            {{ site.data.contact.email }}</a></li>
+        {% if site.data.contact.address %}
+        <li><strong>Address: </strong>{{ site.data.contact.address }}</li>
+        {% endif %}
+      </ul>
+    </div>
+  </div>
+</div>
+
+
+<div class="container">
+  <div class="row">
+    <div class="col-12 col-md-8">
+
+      <h4 class="mt-4">Inquire about our services</h4>
+
+      <!-- Contact Form here -->
+      <form accept-charset="UTF-8" action="" method="POST" onsubmit="console.log('Thank you here!');">
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Name</label>
+          <input type="text" class="form-control" id="exampleFormControlInput1" placeholder="Enter Name" required>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Email address</label>
+          <input type="email" class="form-control" id="exampleFormControlInput1" placeholder="name@example.com"
+            required>
+        </div>
+        <div class="form-group">
+          <label for="exampleFormControlInput1">Phone</label>
+          <input type="text" class="form-control" id="phone" placeholder="Enter Phone Number" required>
+        </div>
+        <button type="submit" class="btn btn-primary">Submit</button>
+      </form>
+      <br>
+
+    </div>
+  </div>
+</div>

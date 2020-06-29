@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Intuitive Report Generation",
+    "description": "Easily create beautiful reports for better understanding your sales.",
+    "image": "images/features/noun_branding_1885335.svg"
+  },
+  {
+    "title": "Remote Inventory",
+    "description": "Keep tabs on your sale and inventory anywhere in th world.",
+    "image": "images/features/noun_The Process_1885341.svg"
+  },
+  {
+    "title": "Easy to use",
+    "description": "We support multiple barcode scanners, cash drawers, an easy product search, and manual sales entry.",
+    "image": "images/features/noun_3d modeling_1885342.svg"
+  }
+]
