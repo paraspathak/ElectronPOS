@@ -1,0 +1,6 @@
+<svg width="104.10751953124999px" height="236.02750244140626px" xmlns="http://www.w3.org/2000/svg" viewBox="197.946240234375 -43.01375122070313 104.10751953124999 236.02750244140626" style="background: rgba(0, 0, 0, 0);" preserveAspectRatio="xMidYMid"><defs><filter id="editing-extrusion" x="-100%" y="-100%" width="300%" height="300%"><feFlood result="color1" flood-color="#cccccc"></feFlood><feConvolveMatrix order="1,1" divisor="1" kernelMatrix="1" in="SourceAlpha" result="extrude"></feConvolveMatrix><feComposite in="color1" in2="extrude" result="comp-extrude" operator="in"></feComposite><feOffset dx="0.5" dy="0.5" in="comp-extrude" result="offset-extrude"></feOffset><feMerge><feMergeNode in="offset-extrude"></feMergeNode><feMergeNode in="SourceGraphic"></feMergeNode></feMerge></filter></defs><g filter="url(#editing-extrusion)"><g transform="translate(217.41499996185303, 121.54999923706055)"><path d="M10.37 0L10.37-93.10L54.80-93.10L54.80-86.18L17.82-86.18L17.82-54.93L43.23-54.93L40.70-47.61L17.82-47.61L17.82-6.65L54.53-6.65L54.53 0L10.37 0Z" fill="#1525a5"></path></g></g><style>text {
+  font-size: 64px;
+  font-family: Arial Black;
+  dominant-baseline: central;
+  text-anchor: middle;
+}</style></svg>
